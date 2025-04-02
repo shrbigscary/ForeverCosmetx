@@ -1,7 +1,7 @@
 # ForeverCosmetx
 A mod for Gorilla Tag which unlocks every cosmetic locally.
 
-<img src="https://i.imgur.com/h8vd6GO.png" width=400px>
+<img src="https://i.imgur.com/h8vd6GO.png" width=600px>
 
 ## Backstory
 
