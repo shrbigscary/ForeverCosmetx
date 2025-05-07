@@ -5,8 +5,8 @@
     /// </summary>
     internal class PluginInfo
     {
-        public const string GUID = "com.goldentrophy.gorillatag.forevercosmetx";
-        public const string Name = "ForeverCosmetx";
+        public const string GUID = "com.shrdev.gorillatag.sscosmetics";
+        public const string Name = "ServerSidedCosmetx";
         public const string Version = "1.0.0";
     }
 }
